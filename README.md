@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Modelagem 3D de face no Blender com Addon Facebuilder
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
