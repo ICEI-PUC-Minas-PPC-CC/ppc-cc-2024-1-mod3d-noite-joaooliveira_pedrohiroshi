@@ -6,14 +6,12 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- João Victor de Lima Oliveira
+- Pedro Hiroshi Yazawa
 
 ## Professor
 
-- Mestre Yoda
+- Will Machado
 
 # Documentação
 
